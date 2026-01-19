@@ -1,0 +1,7 @@
+baseURL: "https://base.hugothemes.docs.elephantintheroom.dev"
+languageCode: "en-us"
+title: "Elephant In The Room Hugo Base Theme"
+
+module:
+  imports:
+    - path: "github.com/ElephantInTheRoom-Michael/HugoTheme-Docs"
